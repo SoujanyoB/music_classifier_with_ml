@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Classifier</string>
+    <string name="content_desc_folder_picker">Folder Picker for the app</string>
+    <string name="content_desc_feature_image">Feature image for the audio</string>
+    <string name="text_start_recording">Start recording:</string>
+    <string name="text_or_choose_a_file">Or Choose a File</string>
+    <string name="text_choose_model">Choose Model:</string>
+    <string name="text_choose_a_file">Choose a File:</string>
+    <string name="text_chosen_song_replacement">Chosen</string>
+</resources>
